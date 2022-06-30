@@ -1,2 +1,2 @@
 #!/bin/python3
-print ("Work Hard")
+python3 $PYFILE
